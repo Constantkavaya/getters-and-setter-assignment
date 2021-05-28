@@ -11,7 +11,6 @@ function user(password){
     }
 }
 console.log(user(81))
-console.log(user(3455))
 console.log(user(54455566667))
 
 
